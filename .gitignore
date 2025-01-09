@@ -18,6 +18,7 @@ lib64/
 venv/
 virtualenv/
 ENV/
+virt/
 
 # Django
 *.log
