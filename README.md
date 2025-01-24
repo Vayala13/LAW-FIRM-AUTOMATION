@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name
 
 ## Installation
@@ -28,3 +29,7 @@
 
 8. Run the server
 ```python manage.py runserver```
+=======
+# LAW-FIRM-AUTOMATION
+This project has the capacity to process documents and extract certain data to be organized accordingly into an excel file
+>>>>>>> e95fb949518c9861637f7911ec1cc0afe8a0be8f
